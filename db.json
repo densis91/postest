@@ -1,0 +1,19 @@
+{
+    "possessions": [
+        {
+            "name": "1",
+            "state": "AVAILABLE",
+            "owner": "Karl"
+        },
+        {
+            "name": "2",
+            "state": "STARTED",
+            "owner": "Peter"
+        },
+        {
+            "name": "3",
+            "state": "START_CONFIRMED",
+            "owner": "Max"
+        }
+    ]
+}
